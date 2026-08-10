@@ -1,0 +1,33 @@
+# ==========================================
+# Datasets (Fichiers trop lourds pour Git)
+# ==========================================
+FER-2013/
+RAVDESS_Video_Speech/
+
+# ==========================================
+# Poids du modèle
+# ==========================================
+final_fer_mini_xception.keras
+*.keras
+*.h5
+*.pt
+*.pth
+
+# ==========================================
+# Notebooks redondants
+# ==========================================
+Fer2013 - Colab.ipynb
+Fer2013 - Local.ipynb
+Fer2013_Ram.ipynb
+
+# ==========================================
+# Fichiers divers
+# ==========================================
+RAVDESS.jpeg
+
+# ==========================================
+# Fichiers systèmes et caches Jupyter/Python
+# ==========================================
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
