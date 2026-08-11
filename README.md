@@ -36,3 +36,9 @@ emotion-recognition-multimodal/
 │   └── RAVDESS.ipynb            # Extraction des frames vidéo et entraînement du modèle LSTM temporel
 ├── .gitignore                   # Exclusion des datasets lourds et des fichiers de poids
 └── README.md
+```
+
+##  Author
+**Mohammed Essalhi**
+* [LinkedIn](https://linkedin.com/in/mohammed-essalhi-23794b24b)
+
